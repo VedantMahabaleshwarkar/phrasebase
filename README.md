@@ -23,7 +23,7 @@ A Hadoop MapReduce java implementation for disambiguating entities from simple E
    You can provide multiple sentences in the input file but be sure to write each sentence on a different line 
    and end them with a period (.)
 - Run
-  ``` hadoop jar PhraseBase.jar PhraseBase input.txt ```
+  ``` hadoop jar PhraseBase.jar PhraseBase input.txt ```  
   
 
 For more detailed theory and documentation about the project read the attached PDF
